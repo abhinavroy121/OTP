@@ -1,0 +1,18 @@
+.otpclass{
+    background-color: lightblue;
+    width:20px;
+    height:20px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.inputhere {
+    margin:auto;
+    margin-top: 50px;
+    width:70%;
+    height:100px;
+    background-color:lightgoldenrodyellow;
+    padding: 20px;
+}
